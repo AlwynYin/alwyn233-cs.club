@@ -1,0 +1,119 @@
+# navigation manu
+nav:
+  display_title: true
+  fixed: true
+
+menu:
+  Home: /
+  Tags: /tags/
+  Categories: /categories/
+  Archives: /archives/
+
+# aside
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: false
+  position: left
+  display:
+    archive: false
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: About me
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/AlwynYin
+  card_announcement:
+    enable: true
+    content: Welcome to my new blog! For now I post my course notes here.
+  card_recent_post:
+    enable: true
+    limits: 5
+    sort: date
+  card_categories:
+    enabled: true
+    limit: 0
+    expand: none
+  card_tags:
+    enabled: true
+    limit: 40
+    expand: none
+  card_archives:
+    enable: false
+    type: monthly
+    format: MMMM YYYY
+    order: -1
+    limit: 8
+  card_webinfo:
+    enable: false
+    post_count: true
+    last_push_date: true
+
+
+# code block
+hightlight_theme: pale night
+hightlight_copy: true
+heilight_height_limit: 200
+
+# personal info
+
+# avatar
+avatar:
+  img: https://alwyn233-cs.club/static/img/avatar.jpg
+  effect: false
+
+social:
+  fab fa-github: https://github.com/AlwynYin
+  fas fa-envelope: mailto:yinalwyn123@gmail.com
+
+
+# posts
+
+# background
+index_img: https://alwyn233-cs.club/static/img/backgrounds/default_background.jpg
+default_top_img: https://alwyn233-cs.club/static/img/backgrounds/default_background.jpg
+
+# cover
+cover:
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  position: both
+  default_cover: 
+    - https://alwyn233-cs.club/static/img/covers/default1.jpg
+    - https://alwyn233-cs.club/static/img/covers/default2.jpg
+    - https://alwyn233-cs.club/static/img/covers/default3.jpg
+    - https://alwyn233-cs.club/static/img/covers/default4.jpg
+    - https://alwyn233-cs.club/static/img/covers/default5.jpg
+    - https://alwyn233-cs.club/static/img/covers/default6.jpg
+    - https://alwyn233-cs.club/static/img/covers/default7.jpg
+    - https://alwyn233-cs.club/static/img/covers/default8.jpg
+    - https://alwyn233-cs.club/static/img/covers/default9.jpg
+    - https://alwyn233-cs.club/static/img/covers/default10.jpg
+    - https://alwyn233-cs.club/static/img/covers/default11.jpg
+    - https://alwyn233-cs.club/static/img/covers/default12.jpg
+
+# meta
+post_meta:
+  page:
+    data_type: both
+    data_format: absoulte
+    categories: true
+    tags: true
+    labels: true
+  post:
+    data_type: both
+    data_format: absoulte
+    categories: true
+    tags: true
+    labels: true
+
+#mathjax
+mathjax:
+  enabled: true
+  per_page: true
