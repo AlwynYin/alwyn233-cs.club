@@ -64,7 +64,7 @@ heilight_height_limit: 200
 
 # avatar
 avatar:
-  img: https://alwyn233-cs.club/static/img/avatar.jpg
+  img: https://alwyn-yin.me/static/img/avatar.jpg
   effect: false
 
 social:
