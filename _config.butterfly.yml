@@ -64,7 +64,7 @@ heilight_height_limit: 200
 
 # avatar
 avatar:
-  img: https://alwyn-yin.me/static/img/avatar.jpg
+  img: https://alwyn-yin.me/static/img/avatar/avatar.jpg
   effect: false
 
 social:
@@ -85,18 +85,18 @@ cover:
   archives_enable: true
   position: both
   default_cover: 
-    - https://alwyn-yim.me/static/img/covers/default1.jpg
-    - https://alwyn-yim.me/static/img/covers/default2.jpg
-    - https://alwyn-yim.me/static/img/covers/default3.jpg
-    - https://alwyn-yim.me/static/img/covers/default4.jpg
-    - https://alwyn-yim.me/static/img/covers/default5.jpg
-    - https://alwyn-yim.me/static/img/covers/default6.jpg
-    - https://alwyn-yim.me/static/img/covers/default7.jpg
-    - https://alwyn-yim.me/static/img/covers/default8.jpg
-    - https://alwyn-yim.me/static/img/covers/default9.jpg
-    - https://alwyn-yim.me/static/img/covers/default10.jpg
-    - https://alwyn-yim.me/static/img/covers/default11.jpg
-    - https://alwyn-yim.me/static/img/covers/default12.jpg
+    - https://alwyn-yin.me/static/img/covers/default1.jpg
+    - https://alwyn-yin.me/static/img/covers/default2.jpg
+    - https://alwyn-yin.me/static/img/covers/default3.jpg
+    - https://alwyn-yin.me/static/img/covers/default4.jpg
+    - https://alwyn-yin.me/static/img/covers/default5.jpg
+    - https://alwyn-yin.me/static/img/covers/default6.jpg
+    - https://alwyn-yin.me/static/img/covers/default7.jpg
+    - https://alwyn-yin.me/static/img/covers/default8.jpg
+    - https://alwyn-yin.me/static/img/covers/default9.jpg
+    - https://alwyn-yin.me/static/img/covers/default10.jpg
+    - https://alwyn-yin.me/static/img/covers/default11.jpg
+    - https://alwyn-yin.me/static/img/covers/default12.jpg
 
 # meta
 post_meta:
