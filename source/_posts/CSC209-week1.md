@@ -1,7 +1,7 @@
 ---
 title: CSC209_week1
 date: 2023-09-12 14:19:06
-tags:
+tags: [CSC209, cs, uoft, c, notes]
 ---
 
 # Unix basics
