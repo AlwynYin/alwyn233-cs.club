@@ -5,4 +5,4 @@ tags: [math, mat246, year-2, uoft, topology, reports]
 category: [Misc, reports]
 description: A report I wrote about box topology and product topology
 ---
-[pdf version here](https://alwyn233-cs.club/static/pdf/topology_report.pdf)
+[pdf version here](https://alwyn-yin.me/static/pdf/topology_report.pdf)
