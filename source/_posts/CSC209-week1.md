@@ -1,7 +1,8 @@
 ---
-title: CSC209_week1
+title: CSC209 Week1
 date: 2023-09-12 14:19:06
 tags: [CSC209, cs, uoft, c, notes]
+category: [Notes, Year2, CSC209]
 ---
 
 # Unix basics
