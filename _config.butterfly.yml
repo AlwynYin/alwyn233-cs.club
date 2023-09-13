@@ -30,7 +30,7 @@ aside:
       link: https://github.com/AlwynYin
   card_announcement:
     enable: true
-    content: Welcome to my new blog! For now I post my course notes here.
+    content: Welcome to my new blog! For now I post my course notes here. For more details, go to categories.
   card_recent_post:
     enable: true
     limits: 5
