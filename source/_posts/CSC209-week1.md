@@ -69,6 +69,7 @@ the output of `ls -l` becomes input of `head -n 1`
 ### Redirection
 
 `>`: change stdout to be some other file
+
 `<`: change the input to be from some other file (as if the file is typing the keyboard)
 
 ### Globing
