@@ -69,7 +69,7 @@ the output of `ls -l` becomes input of `head -n 1`
 ### Redirection
 
 `>`: change stdout to be some other file
-`<`: 
+`<`: change the input to be from some other file (as if the file is typing the keyboard)
 
 ### Globing
 
@@ -87,3 +87,15 @@ pass regex-like patterns as directory
 ```Bash
   gcc -o hello hello.c
 ```
+- Some more arguments:
+  - `-Wall` all warnings
+  - `-std=gnu99` specify standard
+  - *`-g` use gdb*
+
+## Main entry
+```C
+int main(int argc, char* argv[]);
+```
+
+- `argc`: argument count (including name of the executable)
+- `argv`: array of all the arguments
