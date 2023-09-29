@@ -100,3 +100,13 @@ int main(int argc, char* argv[]);
 
 - `argc`: argument count (including name of the executable)
 - `argv`: array of all the arguments
+
+# Memory Manipulation
+
+## pointers
+TODO
+
+## Heap
+- `malloc`
+  - returns a `void *`, you need to keep track of what it is
+- `free`
